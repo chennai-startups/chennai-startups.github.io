@@ -46,7 +46,7 @@ var data=[
   {
     "company_name": "OrangeScape Inc., ",
     "web_url": "http://orangescape.com/",
-    "founders": "Suresh Sambandham",
+    "founders": "Suresh Sambandam",
     "founded": "2003",
     "products": "KissFlow",
     "industry": "PaaS Products",
