@@ -178,10 +178,10 @@ template+= '<div class="col-xs-12 col-sm-6 col-md-4 add_new_company">';
                         template+= '<h4 class="card-title">Do you want to add more interesting startups?</h4>';
                         template+= '<p class="card-text"></p>';
                         template+= '<br>';
-                        template+= '<br>';
+                       
                         template+= '<p class="card-text">It\'s easier than your imagination to be here...!<i class="fa fa-smile"></i></p>';
                         template+= '<br>';
-                        template+= '<br>';
+                      
                         template+= '<a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>';
                     template+= '</div>';
                 template+= '</div>';
