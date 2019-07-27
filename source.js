@@ -51,7 +51,7 @@ var data=[
     "products": "KissFlow",
     "industry": "PaaS Products",
     "career_page": "https://grow.orangescape.com/",
-    "logo": "http://orangescape.com/images/os_logo.png",
+    "logo": "https://orangescape.com/images/logo.png",
     "twitter_handle": "https://twitter.com/orangescape"
   },
   {
